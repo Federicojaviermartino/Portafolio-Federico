@@ -24,5 +24,4 @@ This is my 2023 portfolio. Here you can download my resume and check out all the
 - #### react-icons
 - #### react-scroll
 - #### tsparticles
-  git 
 
